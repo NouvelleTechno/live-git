@@ -3,4 +3,4 @@ Live Coding - Découverte de Git, visible sur https://www.youtube.com/watch?v=d5
 
 Ajout d'informations par le développeur 1
 
-Ajout de nouvelle informations par le développeur 1
+Ajout d'informations par le développeur 2
